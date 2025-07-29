@@ -28,3 +28,11 @@ cat /dev/fourinarow
 
 # Step 4: Remove the module when done
 sudo rmmod fourinarow
+
+```
+
+# References
+
+## Authors
+Maxim Mikhaylov
+- [GitHub](https://www.github.com/maxmklv/Kernel_Connect4)
